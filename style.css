@@ -548,6 +548,8 @@ margin-bottom: 80px;
 }
 
 
+
+
 .order_list::after{
     display: block;
     position: absolute;
@@ -556,8 +558,8 @@ margin-bottom: 80px;
     width: 14px;
     height: 25.923px;
     flex-shrink: 0;
-    /* margin-bottom: 42px; */
-    margin-left: 1250px;
+    margin-bottom: 42px;
+    margin-left: 1210px;
     background-image: url(./images/arrow\ \(1\).svg);
     background-repeat: no-repeat;
     content: "";
@@ -571,7 +573,8 @@ margin-bottom: 80px;
     border-radius: 5px 5px 0px 0px;
     background: #FFF;
     width: 193px;
-    height: 215px;
+    height: 201px;
+    margin-right: 20px;
     padding-top: 30px;
     padding-left: 35px;
     padding-right: 32px;
